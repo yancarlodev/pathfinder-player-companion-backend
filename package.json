@@ -1,0 +1,15 @@
+{
+  "name": "pathfinder-player-companion-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yancarlodev/pathfinder-player-companion-backend.git",
+  "author": "Eduardo Perondi de Almeida <dudupalmeida@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "prisma": "^4.9.0",
+    "save-dev": "^0.0.1-security",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
